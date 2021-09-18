@@ -1,5 +1,5 @@
 ## Deep RL
-## Deep Q-Learning
+### Deep Q-Learning
 #### Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." nature 518.7540 (2015): 529-533.
 + Paper: https://www.datascienceassn.org/sites/default/files/Human-level%20Control%20Through%20Deep%20Reinforcement%20Learning.pdf
 + Code: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
