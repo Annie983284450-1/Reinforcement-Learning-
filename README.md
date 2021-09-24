@@ -7,3 +7,9 @@
 + Paper: https://arxiv.org/pdf/1509.06461.pdf
 + Code: https://paperswithcode.com/paper/deep-reinforcement-learning-with-double-q
 
+
+Improving Sepsis Treatment Strategies by Combining Deep and Kernel-Based Reinforcement Learning
++ Paper: https://arxiv.org/abs/1901.04670
++ Code: https://github.com/xuefeng7/Improving-Sepsis-Treatment-Strategies
+
+
