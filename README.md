@@ -8,8 +8,10 @@
 + Code: https://paperswithcode.com/paper/deep-reinforcement-learning-with-double-q
 
 
-Improving Sepsis Treatment Strategies by Combining Deep and Kernel-Based Reinforcement Learning
+3. Peng, Xuefeng, et al. "Improving sepsis treatment strategies by combining deep and kernel-based reinforcement learning." AMIA Annual Symposium Proceedings. Vol. 2018. American Medical Informatics Association, 2018.
 + Paper: https://arxiv.org/abs/1901.04670
 + Code: https://github.com/xuefeng7/Improving-Sepsis-Treatment-Strategies
+
+4. 
 
 
